@@ -1,8 +1,8 @@
 ### Olá!!! Eu sou Gustavo NAscimento
 
 - 🔭 Eu trabalho como Cloud Infrastructure Analyst | Azure | DevOps
-- 🌱 Estudando AZ-104 para tirar a certificação
-- 📖 Estudando CSharp e .Net
+- 🌱 Estudando AZ-104 para certificação
+- 📖 Estudando .Net CSharp
 
 <div align="center">
   <a href="https://github.com/ffantasma">
