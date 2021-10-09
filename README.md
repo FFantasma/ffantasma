@@ -2,7 +2,7 @@
 
 - 🔭 Eu trabalho como Cloud Infrastructure Analyst | Azure | DevOps
 - 🌱 Estudando AZ-104 para certificação
-- 📖 Docker e Kubernetes
+- 📖 Terraform, Docker e Kubernetes
 
 <div align="center">
   <a href="https://github.com/ffantasma">
