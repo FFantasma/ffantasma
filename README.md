@@ -3,6 +3,7 @@
 - 🔭 Eu trabalho como Cloud Infrastructure Analyst | Azure | DevOps
 - 👍 Certificações AZ-900 | AZ-104 | SC-900
 - 📖 Estudando Terraform, Docker e Kubernetes
+- 😁 ele/dele
 
 <div align="center">
   <a href="https://github.com/ffantasma">
@@ -11,14 +12,12 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gustavo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gustavo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gustavo-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="Gustavo-Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="right" alt="Gustavo-pic" height="150" style="border-radius:50px;" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1632780907576.png">
+  <img align="center" alt="Gustavo-kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  <img align="center" alt="Gustavo-ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
+  <img align="center" alt="Gustavo-jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+  <img align="center" alt="Gustavo-terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
 </div>
 
 ##
