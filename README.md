@@ -1,8 +1,7 @@
 ### Olá!!! Eu sou Gustavo Nascimento
 
 - 🔭 Eu trabalho como Cloud Infrastructure Analyst | Azure | DevOps
-- 🌱 Estudando AZ-104 para certificação
-- 📖 Terraform, Docker e Kubernetes
+- 📖 Estudando Terraform, Docker e Kubernetes
 
 <div align="center">
   <a href="https://github.com/ffantasma">
