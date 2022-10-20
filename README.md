@@ -1,6 +1,7 @@
-### Olá!!! Eu sou Gustavo Nascimento
+### Olá!!! Eu sou Gustavo Nascimento 🤚
 
 - 🔭 Eu trabalho como Cloud Infrastructure Analyst | Azure | DevOps
+- 👍 Certificações AZ-900 | AZ-104 | SC-900
 - 📖 Estudando Terraform, Docker e Kubernetes
 
 <div align="center">
