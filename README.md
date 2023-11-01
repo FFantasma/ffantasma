@@ -3,7 +3,6 @@
 - 🔭 Eu trabalho como Cloud Infrastructure Analyst | Azure | DevOps
 - 👍 Certificações AZ-900 | SC-900 | AZ-104 | AZ-140 | AZ-700
 - 📖 Estudando Terraform, Docker e Kubernetes
-- 😁 ele/dele
 
 <div align="center">
   <a href="https://github.com/ffantasma">
